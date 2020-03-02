@@ -4,18 +4,18 @@ As a developer it is extremely important to demonstrate an understanding of data
 ## What will you be doing?
 You will be assigned a random team today along with a new topic that you will be researching and implementing as a proof of concept. You will find that these concepts help you in solving programming questions. You may find that some of these are a bit above your skill level.  The main focus is to learn something new and share with your fellow classmates.
 
-### Team 1: Stacks and Queues
+### Team 1: [Stacks and Queues](https://git.generalassemb.ly/SF-SEI/Stacks-and-Queues)
   Members: 
-### Team 2: Linked List
-  Members: 
-### Team 3: Hash Tables
-  Members: 
-### Team 4: Sets
-  Members: 
-### Team 5: Binary Trees/Tries
-  Members: 
-### Team 6: Graphs
+### Team 2: [Linked List](https://git.generalassemb.ly/SF-SEI/Linked-Lists)
   Members:
+### Team 3: [Hash Tables](https://git.generalassemb.ly/SF-SEI/Hash-Tables)
+  Members: 
+### Team 4: [Sets](https://git.generalassemb.ly/SF-SEI/Sets)
+  Members: 
+### Team 5: [Binary Trees/Tries](https://git.generalassemb.ly/SF-SEI/Binary-Trees-Tries)
+  Members: 
+### Team 6: [Graphs](https://git.generalassemb.ly/SF-SEI/Graphs)
+  Members: 
   
 ## Deliverables
   - A repository on Github with a `README.md`

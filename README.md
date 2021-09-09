@@ -4,18 +4,21 @@ As a developer it is extremely important to demonstrate an understanding of data
 ## What will you be doing?
 You will be assigned a random team today along with a new topic that you will be researching and implementing as a proof of concept. You will find that these concepts help you in solving programming questions. You may find that some of these are a bit above your skill level.  The main focus is to learn something new and share with your fellow classmates.
 
+<!--  
 ### Team 1: [Stacks and Queues](https://git.generalassemb.ly/SF-SEI/Stacks-and-Queues)
-  Members: Cass Jacques, Abe Abdullah, Joshua Johnson, Kenny Trinh
+  Members: 
 ### Team 2: [Linked List](https://git.generalassemb.ly/SF-SEI/Linked-Lists)
-  Members: Jessica Hansen, Alex Miller, Vishwa G, Matt Biggers
-### Team 3: [Hash Tables](https://git.generalassemb.ly/SF-SEI/Hash-Tables)
-  Members: Joseph Baker, Mohamed Abdulah, Khanon Nomura
-### Team 4: [Sets](https://git.generalassemb.ly/SF-SEI/Sets)
-  Members: Josh Waldman, Nic K, Nicholas Gacicia
-### Team 5: [Binary Trees/Tries](https://git.generalassemb.ly/SF-SEI/Binary-Trees-Tries)
-  Members: Brittany Bui, Scott Johnson, Sennad Binghalib, Joal Chiu
-### Team 6: [Graphs](https://git.generalassemb.ly/SF-SEI/Graphs)
-  Members: Luvy Cunanan, Tom Gray, Joey Giardina, Andre Renaud
+  Members: 
+-->
+
+### Team 1: [Hash Tables](https://github.com/SEIR-7-06/Hash-Tables)
+  Members: TBD
+### Team 2: [Sets](https://github.com/SEIR-7-06/Sets)
+  Members: TBD
+### Team 3: [Binary Trees/Tries](https://github.com/SEIR-7-06/Binary-Trees-Tries)
+  Members: TBD
+### Team 4: [Graphs](https://github.com/SEIR-7-06/Graphs)
+  Members: TBD
   
 ## Deliverables
   - A repository on Github with a `README.md`

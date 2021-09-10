@@ -1,5 +1,5 @@
 ## Lightning Learn!
-As a developer it is extremely important to demonstrate an understanding of data structures & Algorithms.
+For this activity we will getting a chance to explore various Data Structures in Computer Science.
 
 ## What will you be doing?
 You will be assigned a random team today along with a new topic that you will be researching and implementing as a proof of concept. You will find that these concepts help you in solving programming questions. You may find that some of these are a bit above your skill level.  The main focus is to learn something new and share with your fellow classmates.
